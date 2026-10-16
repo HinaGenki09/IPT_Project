@@ -1,0 +1,1 @@
+- This website uses backend and database, Node.js + Express and MongoDB Compass.
